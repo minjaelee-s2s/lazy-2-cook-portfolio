@@ -67,4 +67,5 @@ Departing from generic Material/Cupertino designs, I engineered a unique **2D is
 **Minjae Lee**
 * Applied Mathematics & Statistics @ Stony Brook University
 * Incoming Data Science & Mathematics @ New York University (NYU)
-* [LinkedIn](https://www.linkedin.com/in/minjae-lee-435b35388/) | [Email](mailto:stony2sw@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/minjae-lee-435b35388/
+* **Email:** stony2sw@gmail.com
