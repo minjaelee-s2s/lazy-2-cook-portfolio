@@ -1,9 +1,15 @@
-# 🍳 Lazy 2 Cook
-### Hybrid Cloud & Offline-First Recipe Management System for Single-Person Households
+<p align="center">
+  <img src="assets/app_icon.png" width="150" alt="Lazy 2 Cook Icon">
+</p>
 
-[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue)](https://apps.apple.com/app/id-your-app-id)
-[![Framework](https://img.shields.io/badge/Framework-Flutter-02569B?logo=flutter)](https://flutter.dev)
-[![Backend](https://img.shields.io/badge/Backend-Firebase-FFCA28?logo=firebase)](https://firebase.google.com)
+<h1 align="center">🍳 Lazy 2 Cook</h1>
+<h3 align="center">Hybrid Cloud & Offline-First Recipe Management System for Single-Person Households</h3>
+
+<p align="center">
+  <a href="https://apps.apple.com/app/id-your-app-id"><img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue" alt="Platform"></a>
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Framework-Flutter-02569B?logo=flutter" alt="Framework"></a>
+  <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?logo=firebase" alt="Backend"></a>
+</p>
 
 **Lazy 2 Cook** is a production-ready mobile application designed to tackle food waste in single-person households. By combining smart inventory tracking with an algorithmic recommendation engine, the app helps users maximize their ingredients and maintain healthy cooking habits.
 
@@ -37,7 +43,7 @@ Departing from generic Material/Cupertino designs, I engineered a unique **2D is
 * **Language:** Dart
 * **Framework:** Flutter (iOS & Android)
 * **Backend:** Firebase (Auth, Firestore)
-* **State Management:** Provider / BLoC (or whatever you used)
+* **State Management:** Provider / BLoC
 * **Storage:** SharedPreferences, Local JSON 
 * **Ads:** Google AdMob 
 
@@ -47,12 +53,12 @@ Departing from generic Material/Cupertino designs, I engineered a unique **2D is
 
 | Interactive Home | Inventory Management | Recipe Recommendations |
 | :---: | :---: | :---: |
-| ![Home Screen](url_to_screenshot) | ![Inventory](url_to_screenshot) | ![Recipes](url_to_screenshot) |
+| ![Home Screen](assets/main.jpg) | ![Inventory](assets/inventory.jpg) | ![Recipes](assets/recipe.jpg) |
 
 ---
 
 ## 📈 Future Roadmap
-* **Probabilistic Modeling:** Integrate the **SOA Exam P**-based probability theories to predict ingredient decay and user habit patterns[cite: 643].
+* **Probabilistic Modeling:** Integrate the **SOA Exam P**-based probability theories to predict ingredient decay and user habit patterns.
 * **Deep Learning Integration:** Implement on-device image classification for automatic ingredient logging.
 
 ---
